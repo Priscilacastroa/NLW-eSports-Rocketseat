@@ -1,7 +1,10 @@
 # NLW eSports - Rocketseat
 
-![preview](.
-
 > Projeto construído no evento Next Level Week.
 
+![preview](./.github/preview.png)
+
+
+## Contato:
+priscilacastroa@gmail.com
 
